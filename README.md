@@ -2,7 +2,7 @@
 
 > Encuentra tu peluquería o barbería, reserva tu cita y descubre cortes, todo desde el móvil.
 
-**CitaClara** (nombre provisional) es una aplicación Android que conecta a **clientes** con **peluquerías y barberías afiliadas**. Los negocios gestionan sus servicios, horarios y citas desde la propia app, y los clientes buscan en un mapa, ven fotos de cortes reales, reservan y guardan sus preferencias en un perfil.
+**CitaClara** es una aplicación Android que conecta a **clientes** con **peluquerías y barberías afiliadas**. Los negocios gestionan sus servicios, horarios y citas desde la propia app, y los clientes buscan en un mapa, ven fotos de cortes reales, reservan y guardan sus preferencias en un perfil.
 
 Proyecto intermodular de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, CIFP Virgen de Gracia (Puertollano).
 
