@@ -6,15 +6,6 @@
 
 Proyecto intermodular de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, CIFP Virgen de Gracia (Puertollano).
 
-| | |
-|---|---|
-| **Autor** | Ismael Muñoz Vico |
-| **Tutora** | Alicia Velasco Fernandez |
-| **Curso** | 2026/2027 |
-| **Estado** | En desarrollo (fase inicial) |
-
----
-
 ## Índice
 
 1. [El problema](#el-problema)
@@ -50,7 +41,6 @@ Datos de la entrevista:
 - Ya probó una app gratuita y la abandonó a las dos semanas por ser difícil de configurar.
 - Indicó que pagaría entre 20 y 30 € al mes si la herramienta eliminaba de verdad las cancelaciones.
 
-> La validación es provisional: una entrevista completa más conversaciones informales con otros comerciantes. Hay otras dos entrevistas previstas. El lado del cliente (dificultad para encontrar y comparar locales) es una hipótesis pendiente de validar con una encuesta.
 
 ## La solución
 
